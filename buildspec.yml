@@ -6,4 +6,4 @@ phases:
       - pip install pytest
   build:
     commands:
-      - pytest name-alter.py
+      - pytest test_name_alter.py
