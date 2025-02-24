@@ -1,6 +1,5 @@
 import pytest
-from io import StringIO
-import sys
+from name_alter import ist_gerades
 
 
 def test_ist_gerade():
