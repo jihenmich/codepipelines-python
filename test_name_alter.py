@@ -1,5 +1,5 @@
 import pytest
-from name_alter import ist_gerades
+from name_alter import ist_gerade
 
 
 def test_ist_gerade():
